@@ -11,5 +11,5 @@ public class Persion {
     private String address;
     private String phone;
     private String gender;
-
+    private String age;
 }
